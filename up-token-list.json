@@ -268,6 +268,14 @@
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/8947e611fb2a0d4b.png"
+    },
+    {
+      "name": "Olympic Token",
+      "address": "0x552261b40F95D783732dCA12e9194f310CB4a984",
+      "symbol": "OPC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/14/37c31b8a1b0b20cb.png"
     }
   ]
 }
