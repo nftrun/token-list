@@ -2,7 +2,7 @@
   "name": "Upswap Labs List",
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 2,
     "patch": 0
   },
@@ -207,19 +207,11 @@
     },
     {
       "chainId": 137,
-      "address": "0xd3761724c06263edCCcF9F5AAf11A5711373efEf",
-      "name": "CatToken",
-      "symbol": "CAT",
+      "address": "0xfF20f43918C70B9fa47b6e3992b042225b17F73e",
+      "name": "RBToken",
+      "symbol": "RB",
       "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/00d9951d1b659eb7.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x4bdD95007a0f3726c7EB2C47271412b68694b9F2",
-      "name": "DogToken",
-      "symbol": "DOG",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/1a395bee22bf7d5c.png"
+      "logoURI": "https://s3.bmp.ovh/imgs/2022/08/30/8451109ca7f6706d.png"
     },
     {
       "chainId": 80001,
