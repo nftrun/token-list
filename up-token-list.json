@@ -3,7 +3,7 @@
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -214,60 +214,12 @@
       "logoURI": "https://s3.bmp.ovh/imgs/2022/08/30/8451109ca7f6706d.png"
     },
     {
-      "chainId": 80001,
-      "address": "0xc5521d1e3a5d5F34391F8bbd845c4c35903c17bD",
-      "name": "CatToken",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/00d9951d1b659eb7.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x372C557EF20967eD80cac06094dbF84838c7c7bd",
-      "name": "DogToken",
-      "symbol": "DOG",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/1a395bee22bf7d5c.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0xC7797bB3b702FDbA81C7f9f9E72FcCc68ce6b93b",
-      "name": "GooseToken",
-      "symbol": "GOO",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/bde3ed57a3bfe357.jpg"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x277D53268C5e0136d210626279C4466DeBa70811",
-      "name": "BearToken",
-      "symbol": "BEAR",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/07/0d846331a295264e.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/71306f3e38ab9206.png"
-    },
-    {
       "name": "Wrapped Matic",
       "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/8947e611fb2a0d4b.png"
-    },
-    {
-      "name": "Olympic Token",
-      "address": "0x552261b40F95D783732dCA12e9194f310CB4a984",
-      "symbol": "OPK",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/04/14/37c31b8a1b0b20cb.png"
     }
   ]
 }
