@@ -4,7 +4,7 @@
   "version": {
     "major": 4,
     "minor": 4,
-    "patch": 0
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/580b17348e48948d.png",
@@ -208,7 +208,7 @@
     {
       "chainId": 137,
       "address": "0xfF20f43918C70B9fa47b6e3992b042225b17F73e",
-      "name": "RBToken",
+      "name": "Runbit Token",
       "symbol": "RB",
       "decimals": 18,
       "logoURI": "https://s3.bmp.ovh/imgs/2022/08/30/8451109ca7f6706d.png"
