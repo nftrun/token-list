@@ -2,7 +2,7 @@
   "name": "Upswap Labs List",
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 5,
     "patch": 2
   },
@@ -134,6 +134,14 @@
       "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/71306f3e38ab9206.png"
     },
     {
+      "chainId": 137,
+      "address": "0x00000000008783C915c33B0D7cA46139fB3cF690",
+      "name": "Runbit Token",
+      "symbol": "RT",
+      "decimals": 18,
+      "logoURI": "https://s3.bmp.ovh/imgs/2023/01/19/c5b91370b67b3bf0.png"
+    },
+    {
       "name": "Dai Stablecoin",
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "symbol": "DAI",
@@ -204,14 +212,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/8947e611fb2a0d4b.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xfF20f43918C70B9fa47b6e3992b042225b17F73e",
-      "name": "Runbit Token",
-      "symbol": "RB",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2022/08/30/8451109ca7f6706d.png"
     },
     {
       "name": "Wrapped Matic",
