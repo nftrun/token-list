@@ -4,7 +4,7 @@
   "version": {
     "major": 5,
     "minor": 5,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://s3.bmp.ovh/imgs/2022/04/08/580b17348e48948d.png",
@@ -135,7 +135,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x00000000008783C915c33B0D7cA46139fB3cF690",
+      "address": "0x68101D671bb84895dA7dD7173BD71751929A7D0e",
       "name": "Runbit Token",
       "symbol": "RT",
       "decimals": 18,
