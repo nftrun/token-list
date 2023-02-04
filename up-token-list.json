@@ -2,7 +2,7 @@
   "name": "Upswap Labs List",
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 6,
     "patch": 3
   },
@@ -139,31 +139,7 @@
       "name": "Runbit Token",
       "symbol": "RT",
       "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2023/01/19/c5b91370b67b3bf0.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x78101D671bb84895dA7dD7173BD71751929A7D0e",
-      "name": "Test Token",
-      "symbol": "TET",
-      "decimals": 18,
       "logoURI": "https://s3.bmp.ovh/imgs/2023/02/04/a912832b652243e3.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x88101D671bb84895dA7dD7173BD71751929A7D0e",
-      "name": "ABC Token",
-      "symbol": "AB",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2023/02/04/054b14032dbd6756.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x98101D671bb84895dA7dD7173BD71751929A7D0e",
-      "name": "EBC Token",
-      "symbol": "AT",
-      "decimals": 18,
-      "logoURI": "https://s3.bmp.ovh/imgs/2023/02/04/6415558dd22d6022.png"
     },
     {
       "name": "Dai Stablecoin",
