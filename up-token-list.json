@@ -3,7 +3,7 @@
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
     "major": 7,
-    "minor": 6,
+    "minor": 7,
     "patch": 3
   },
   "tags": {},
@@ -140,6 +140,14 @@
       "symbol": "RT",
       "decimals": 18,
       "logoURI": "https://s3.bmp.ovh/imgs/2023/02/04/a912832b652243e3.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x6D296b60D9D30aa92971F888258409D9Fa2e5857",
+      "name": "Runbit Master Token",
+      "symbol": "RM",
+      "decimals": 18,
+      "logoURI": "https://s3.bmp.ovh/imgs/2024/03/25/e74ffa44682dd434.png"
     },
     {
       "name": "Dai Stablecoin",
