@@ -3,7 +3,7 @@
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
     "major": 9,
-    "minor": 8,
+    "minor": 9,
     "patch": 3
   },
   "tags": {},
@@ -19,7 +19,7 @@
       "name": "Runbit Master Token",
       "symbol": "RM",
       "decimals": 18,
-      "logoURI": "https://download.runbit.io/rmv1.jpg"
+      "logoURI": "https://download.runbit.io/rmv3.png"
     },
     {
       "chainId": 1,
