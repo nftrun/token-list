@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "chainId": 137,
+      "address": "0x66F0376f09F397ACE3E9960A0b99FF35818Eda63",
+      "name": "Runbit Master Token",
+      "symbol": "RM",
+      "decimals": 18,
+      "logoURI": "https://s3.bmp.ovh/imgs/2024/03/25/e74ffa44682dd434.png"
+    },
+    {
       "chainId": 1,
       "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
       "name": "Polygon",
