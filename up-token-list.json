@@ -2,7 +2,7 @@
   "name": "Upswap Labs List",
   "timestamp": "2022-03-18T19:49:26.225Z",
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 9,
     "patch": 3
   },
@@ -19,7 +19,7 @@
       "name": "Runbit Master Token",
       "symbol": "RM",
       "decimals": 18,
-      "logoURI": "https://download.runbit.io/rmv3.png"
+      "logoURI": "https://download.runbit.io/rmv2.jpg"
     },
     {
       "chainId": 1,
